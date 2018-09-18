@@ -1,0 +1,13 @@
+body {background-color: gray}
+#naglowek {
+    color:white;
+}
+.one {
+    background-color: orange; 
+    height: 100px; 
+    width: 100px; 
+    display: block;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    
+}
